@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assi-3-increment-and-decrement-/static/css/main.b041de8a.css",
+    "main.js": "/assi-3-increment-and-decrement-/static/js/main.166e1766.js",
+    "static/js/453.6097f334.chunk.js": "/assi-3-increment-and-decrement-/static/js/453.6097f334.chunk.js",
+    "index.html": "/assi-3-increment-and-decrement-/index.html",
+    "main.b041de8a.css.map": "/assi-3-increment-and-decrement-/static/css/main.b041de8a.css.map",
+    "main.166e1766.js.map": "/assi-3-increment-and-decrement-/static/js/main.166e1766.js.map",
+    "453.6097f334.chunk.js.map": "/assi-3-increment-and-decrement-/static/js/453.6097f334.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b041de8a.css",
+    "static/js/main.166e1766.js"
+  ]
+}
